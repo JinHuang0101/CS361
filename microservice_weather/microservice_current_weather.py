@@ -1,5 +1,5 @@
 import requests
-api_key = 'd9eed6b80a1c4271974224250233110'
+api_key = ''
 location = 'Portland'
 
 # get current weather
